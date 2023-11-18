@@ -9,7 +9,7 @@
 <h2>Deployment</h2>
 <p title="Deployment">You can use PARTH-Userbot through the cloud application platform Heroku.</p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parthxsharma/parthsecurity)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parthxsharma/parthxsecurity)
 
 Or, simply run the following commands in your Vps,
 
