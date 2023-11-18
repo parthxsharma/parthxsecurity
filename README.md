@@ -1,5 +1,5 @@
 <h2>PARTH-Userbot</h2>
-<p title="PARTH-JAAT">Rudra is a powerful, advanced, multi-featured Telegram userbot.</p>
+<p title="PARTH">Parth is a powerful, advanced, multi-featured Telegram userbot.</p>
 
 <p align="center"><a href="https://t.me/PARTH_SHARMA"><img src="https://telegra.ph/file/244cf7a88831ffcdfeff8.jpg"></a></p>
 
